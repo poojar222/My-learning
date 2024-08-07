@@ -25,6 +25,7 @@ body {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  width: 100%;
 }
 
 
@@ -108,4 +109,5 @@ header img {
   background-color: black;
   color:  var(--theme-color);
 }
+
 
